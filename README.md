@@ -4,13 +4,21 @@ This repo covers Python programming examples on Searching and Sorting. The folde
 
 The search and Sort techniques in this repo are:
 Bubble Sort 
+
 Selection Sort
+
 Insertion Sort
+
 Merge Sort
+
 Quicksort
+
 Linear Search
+
 Binary Search without Recursion/ Binary Search with Recursion
+
 seq_search_ordered
+
 
 The instructions that will guide us to the end of what we want to achieve are on the link provided below:
 https://umuzi-org.github.io/tech-department/projects/python-specific/search-and-sort/
