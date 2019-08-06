@@ -3,6 +3,7 @@ Python Search and sort techniques
 This repo covers Python programming examples on Searching and Sorting. The folder (files) contains examples of search and sort techniques that we use in the "search_and_sort.ipynb" file to search and sort our data.
 
 The search and Sort techniques in this repo are:
+
 Bubble Sort 
 
 Selection Sort
